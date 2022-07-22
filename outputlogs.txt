@@ -1,0 +1,38 @@
+// Contract addresses
+
+ScrtachNFT Collection deployed to: 0xF3b5b1DA47584d88f3EAd842a0b1af8Ef910B748
+ScrtachReward Token deployed to: 0x9A70744C64aB5bB2AE8d62a94F84Fe4A742F606e
+Scrtach Staking Vault deployed to: 0xa8c096840B1C7BA39441475378554025CC9C1AED
+
+
+
+// account creation
+
+{
+  address: '0xA99bCC3047cC5937C17E7Cd70a0AB9a74eeD5037',
+  privateKey: '0x8b30bc41ec6be356a4a2f0b96a05b3bd5a3c56da0bd76c17dc132bdc3a4d4c96',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]
+}
+
+
+// Mnemonic logs
+
+
+//  ---- Code
+fiction time seed aunt field you unveil opinion uncle dynamic odor large
+ Account01 public key 0xE48dFF7D1FF087bABD10d974d36AB64E08026cC7 
+Account01 privateKey:- 0xa032b0aa50c692b3b64c1a02a753cd3cf6181cce0d976cb9d932c7b2ac606b85
+ Account01 public key 0x536F2C838aa80aa73d145D0db8133Da92Ad0BEd2 
+Account02 privateKey:- 0xe4132615daede96bd5bb4d4d6edac5172bfd8ccced35e8a58dd377fcdc363808
+
+
+
+//  ---- MetaMask
+
+acc 01:- 0xE48dFF7D1FF087bABD10d974d36AB64E08026cC7
+0xa032b0aa50c692b3b64c1a02a753cd3cf6181cce0d976cb9d932c7b2ac606b85
+
+acc 02:- 0x536F2C838aa80aa73d145D0db8133Da92Ad0BEd2
+0xe4132615daede96bd5bb4d4d6edac5172bfd8ccced35e8a58dd377fcdc363808
